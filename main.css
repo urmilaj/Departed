@@ -1,0 +1,40 @@
+h1,h4 {
+    font-family: 'Times New Roman', Times, serif;
+    margin: auto;
+    font-size: 50px;
+    text-align: center;
+  }
+
+  h4{
+    font-size:20px;
+  }
+
+  p{
+    text-align:center;
+    margin:auto;
+    font-family:'Times New Roman', Times, serif;
+    font-size: 20px;
+  }
+  .viz{
+    background-color: lightgray;
+  }
+  .hidden{
+    display: none;
+  }
+
+  .annotation-note-bg{
+    fill:white;
+    fill-opacity: 0.9;
+  }
+
+  .annotation-subject .subject{
+    stroke:none;
+    
+  }
+
+  footer{
+    text-align:center;
+    margin:auto;
+    font-family:'Times New Roman', Times, serif;
+    font-size:18px;
+  }

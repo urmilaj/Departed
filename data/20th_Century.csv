@@ -1,0 +1,254 @@
+category,sub_category,details,value
+Accidents,Road traffic accidents,Road traffic accidents,60261708.6
+Accidents,Poisonings,Poisonings,35376511.86
+Accidents,Falls,Falls,39228395.67
+Accidents,Fires,Fires,31423262.69
+Accidents,Drownings,Drownings,39025664.95
+Accidents,Plane crashes,Plane crashes,120704
+Accidents,Train crashes,Train crashes,14282
+Accidents,Maritime disasters,Maritime disasters,31194
+Accidents,Industrial accidents,Industrial accidents,3970
+Accidents,Sporting accidents/disasters,Sporting accidents/disasters,1998
+Accidents,Space exploration,Space exploration,22
+Accidents,"incl. accidents involving machinery or garden tools, accidental gas explosions, suffocation","incl. accidents involving machinery or garden tools, accidental gas explosions, suffocation",92475772.24
+Air Pollution,Air pollution,Air pollution,115677303.5
+Animals,Animals,Bears,7304
+Animals,Animals,Crocodiles,199447.1891
+Animals,Animals,Elephants,48198.87646
+Animals,Animals,Lions,24930.89864
+Animals,Animals,Wolves,342
+Animals,Animals,Snakes,5934865.268
+Animals,Animals,Jellyfish,3432.184126
+Animals,Animals,Sharks,574.9544373
+Animals,Animals,Scorpions,498617.9727
+Artificial Energy,Nuclear accidents (incl. cancer deaths to date),Chernobyl,50
+Artificial Energy,Nuclear accidents (incl. cancer deaths to date),"Mayak Explosion, 1957",49
+Artificial Energy,Nuclear accidents (incl. cancer deaths to date),"Windscale, UK, 1957",100
+Artificial Energy,Nuclear accidents (incl. cancer deaths to date),Others,119
+Artificial Energy,Fossil fuels,Carbon monoxide,50000
+Artificial Energy,Fossil fuels,Climate change since 1970,3731617.012
+Cancer,Cancer,Mouth / oropharynx,23719495.06
+Cancer,Cancer,Oesophagus,33298521.91
+Cancer,Cancer,Stomach,64012227.05
+Cancer,Cancer,Colorectal,46678749.89
+Cancer,Cancer,Liver,46146581.73
+Cancer,Cancer,Pancreas,17257453.14
+Cancer,Cancer,"Lung, trachea, bronchus",93281475.76
+Cancer,Cancer,Melanoma / skin,4941561.471
+Cancer,Cancer,Breast,35959362.7
+Cancer,Cancer,Cervix,17865645.32
+Cancer,Cancer,Uterus,5397705.606
+Cancer,Cancer,Ovary,10035170.99
+Cancer,Cancer,Prostate,20070341.97
+Cancer,Cancer,Bladder,13304203.96
+Cancer,Cancer,Lymphomas / multiple myeloma,25163951.49
+Cancer,Cancer,Leukaemia,19994317.95
+Cancer,Cancer,Others,56713920.88
+Drugs,Illegal drugs,Illegal drugs,6538065.946
+Drugs,Tobacco,Tobacco,100000000
+Drugs,Alcohol,Alcohol,8514690.534
+Famine,Famine,Nigeria 1903-06,5000
+Famine,Famine,Tanzania 1906-07,37500
+Famine,Famine,West Africa 1913-14,125000
+Famine,Famine,Tanzania 1917-19,30000
+Famine,Famine,China 1920-21,500000
+Famine,Famine,Soviet Union 1921-22,9000000
+Famine,Famine,China 1927,3000000
+Famine,Famine,China 1929,2000000
+Famine,Famine,Soviet Union 1932-34,7000000
+Famine,Famine,Greece 1941,300000
+Famine,Famine,China 1943,5000000
+Famine,Famine,India 1943,2100000
+Famine,Famine,Rwanda 1943-44,300000
+Famine,Famine,Netherlands 1944,10000
+Famine,Famine,Soviet Union 1946-47,2000000
+Famine,Famine,Ethiopia 1957-58,100000
+Famine,Famine,China 1958-62,30000000
+Famine,Famine,Ethiopia 1966,200000
+Famine,Famine,Somalia 1974-5,20000
+Famine,Famine,Bangladesh 1974,1500000
+Famine,Famine,Cambodia 1979,1500000
+Famine,Famine,Uganda 1980-81,30000
+Famine,Famine,Mozambique 1982-85,100000
+Famine,Famine,Ethiopia 1983-85,590000
+Famine,Famine,Sudan 1984-85,250000
+Famine,Famine,Sudan 1988,250000
+Famine,Famine,Somalia 1991-93,300000
+Famine,Famine,North Korea 1995-1999,2800000
+Famine,Famine,Sudan 1998,70000
+Famine,Famine,Protein-energy malnutrition,31676676.09
+Ideology,Communism,China (1949-1976?),65000000
+Ideology,Communism,Soviet Union (1922-1953?),20000000
+Ideology,Communism,Cambodia (1975-1979),1700000
+Ideology,Communism,North Korea (1948-1987),2000000
+Ideology,Communism,Africa (1974-1987?),1700000
+Ideology,Communism,Afghanistan (1979-1986),1500000
+Ideology,Communism,Eastern Europe,1000000
+Ideology,Communism,Vietnam (1945-1956),1000000
+Ideology,Communism,Latin America,150000
+Ideology,Communism,Other Communist activities,10000
+Ideology,Fascism,Spain (Franco) (1939-1975),514266
+Ideology,Fascism,Nazi Germany 1933-1945,20946000
+Ideology,Fascism,Japan 1936-1945,6000000
+Ideology,Fascism,Argentina (Operation Condor) 1975-1980s?,60000
+Ideology,Fascism,Chile (Pinochet) 1974-1990,1850
+Ideology,Fascism,Italy (Mussolini) 1922-1943,300000
+Ideology,Ba'athism,Saddam Hussein,2000000
+Ideology,Catholicism,Condom edicts (1968-2010),3000000
+Ideology,Democracy,US foreign policy,573000
+Ideology,Democracy,"Conflicts waged by US in name of democracy, 1945-99",13786750
+Ideology,Democracy,"Conflicts waged by US in name of democracy, pre-1945 (excluding WW1 and 2)",200000
+Ideology,Democracy,Philippine-American war (1899-1902),200000
+Ideology,Fighting for democracy,Myanmar 1988,3000
+Ideology,Fighting for democracy,Tianamen Sq 1989,2600
+Ideology,Fighting for democracy,8888 Uprising 1988,10000
+Ideology,Fighting for democracy,"Tiatelolco massacre, Mexico 1968",44
+Ideology,Terrorism,1900-1949,523
+Ideology,Terrorism,1949-1989,2982
+Ideology,Terrorism,1990-1999,2111
+Infectious Disease,Dengue,Dengue,2407427.383
+Infectious Disease,Diarrhoea,Cholera,2344560
+Infectious Disease,Diarrhoea,Typhoid in Russian Civil War,1890000
+Infectious Disease,Diarrhoea,Diarrhoea,-4234560
+Infectious Disease,Diptheria,Diptheria,760240.2263
+Infectious Disease,Hepatitis B,Hepatitis B,12670670.44
+Infectious Disease,Hepatitis C,Hepatitis C,6462041.923
+Infectious Disease,HIV / AIDS,AIDS,12500000
+Infectious Disease,Leprosy,Leprosy,760240.2263
+Infectious Disease,Malaria,Malaria,193679932
+Infectious Disease,Measles,Measles,96677215.44
+Infectious Disease,Meningitis,Meningitis,21920259.86
+Infectious Disease,Polio,Annual,123706.7044
+Infectious Disease,Polio,1952 US polio epidemic,3000
+Infectious Disease,Rabies,Rabies,6627345.513
+Infectious Disease,Respiratory infections,Seasonal flu,36149157.35
+Infectious Disease,Respiratory infections,Influenza Pandemic 1918-19,40000000
+Infectious Disease,Respiratory infections,1957 Asian Flu Pandemic,2000000
+Infectious Disease,Respiratory infections,Includes influenza and pneumonia,407137520.4
+Infectious Disease,SARS,SARS,916
+Infectious Disease,Smallpox,Smallpox,400000000
+Infectious Disease,STDs excluding HIV,Syphilis,19639539.18
+Infectious Disease,STDs excluding HIV,Chlamydia,1140360.339
+Infectious Disease,STDs excluding HIV,Gonorrhoea,126706.7044
+Infectious Disease,STDs excluding HIV,general,1520480.453
+Infectious Disease,TB,Tuberculosis,100000000
+Infectious Disease,Tetanus,Tetanus,37125064.38
+Infectious Disease,Tropical diseases,Tropical diseases,16218458.16
+Infectious Disease,Whooping Cough,Whooping Cough (Pertussis),38138718.02
+Leftfield,Gaming,Gaming,17
+Leftfield,Football,Football,38
+Leftfield,Sleeping,Sudden unexpected death syndrome,352
+Leftfield,Marathons,Marathons,180
+Leftfield,Mountain climbing,Mountain climbing,1809
+Murder,Self-murder,Suicide,88694693.06
+Murder,Self-murder,Eating disorders,64708.58792
+Murder,Self-murder,Self immolation,1617.855525
+Murder,Self-murder,Kamikaze pilots (pilots only),3912
+Murder,Self-murder,"Jonestown mass suicide, 1978",918
+Murder,Self-murder,Suicide bombings (bomber only),150
+Murder,Genocide,Rwandan Genocide (April-July 1994),800000
+Murder,Genocide,Khmer Rouge - Cambodia (1975-1979),1700000
+Murder,Genocide,Armenian genocide (1900-1923),3900000
+Murder,Genocide,Rape of Nanking (December 1937),300000
+Murder,Genocide,Brazil- Indian Genocide (1900 et seq.),800000
+Murder,Genocide,Nazi Genocide (1934-1945),16315000
+Murder,Genocide,Bosnia - Herzegovina 'Ethnic Cleansing' (1992-1995),200000
+Murder,Genocide,Haitian genocide in Dominican Republic (1937),4500
+Murder,Genocide,Equatorial Guinea (1968-79),80000
+Murder,Genocide,"Mengistu (Ethiopia, 1975-78)",1500000
+Murder,Genocide,"Yakubu Gowon (Biafra, Nigeria, 1967-1970)",1000000
+Murder,Genocide,"Tito (Yugoslavia, 1945-1987)",570000
+Murder,Genocide,"Idi Amin (Uganda, 1969-1979)",300000
+Murder,Genocide,"Charles Taylor (Liberia, 1989-1996)",220000
+Murder,Genocide,"Suharto (Aceh, East Timor, New Guinea, 1975-98)",200000
+Murder,Genocide,"Michel Micombero (Burundi, 1972)",150000
+Murder,Genocide,"Hassan Turabi (Sudan, 1989-1999)",100000
+Murder,Genocide,"East Pakistan (Bangladesh), 1971",1650000
+Murder,Homicide,Assassinations,571
+Murder,Homicide,Homicides,57458530.69
+Murder,Homicide,Lynchings (US),1999
+Murder,Homicide,Lynchings (rest of world),5
+Murder,Homicide,Riots,842889
+Murder,State (death penalty),China,169530.1107
+Murder,State (death penalty),USA,8141
+Murder,State (death penalty),Australia,114
+Murder,State (death penalty),UK,788
+Natural Disasters,Earthquakes,Earthquakes,1599418
+Natural Disasters,Extreme weather,1900-09,1280000
+Natural Disasters,Extreme weather,1910-19,250000
+Natural Disasters,Extreme weather,1920-29,4850000
+Natural Disasters,Extreme weather,1930-29,4460000
+Natural Disasters,Extreme weather,1940-49,3700000
+Natural Disasters,Extreme weather,1950-59,2110000
+Natural Disasters,Extreme weather,1960-69,1680000
+Natural Disasters,Extreme weather,1970-79,540000
+Natural Disasters,Extreme weather,1980-89,660000
+Natural Disasters,Extreme weather,1990-99,330000
+Natural Disasters,Lightning,Lightning,2393366.269
+Natural Disasters,Volcanoes,Volcanoes,95612
+Noncommunicable Diseases,Diabetes,Diabetes mellitus,72983061.72
+Noncommunicable Diseases,Endocrine disorders,Endocrine disorders,18245765.43
+Noncommunicable Diseases,Neuropsychiatric illnesses,Depression,988312.2941
+Noncommunicable Diseases,Neuropsychiatric illnesses,Bipolar,76024.02263
+Noncommunicable Diseases,Neuropsychiatric illnesses,Schizophrenia,1748552.52
+Noncommunicable Diseases,Neuropsychiatric illnesses,Epilepsy,9503002.828
+Noncommunicable Diseases,Neuropsychiatric illnesses,Alcohol abuse,6386017.901
+Noncommunicable Diseases,Neuropsychiatric illnesses,Alzheimer's / dementia,28889128.6
+Noncommunicable Diseases,Neuropsychiatric illnesses,Parkinson's,7222282.149
+Noncommunicable Diseases,Neuropsychiatric illnesses,Multiple sclerosis,1216384.362
+Noncommunicable Diseases,Neuropsychiatric illnesses,Drug abuse,6538065.946
+Noncommunicable Diseases,Neuropsychiatric illnesses,Mental retardation from lead,456144.1358
+Noncommunicable Diseases,Neuropsychiatric illnesses,"Other neuropsychiatric disorders (e.g. cranial abcesses, other types of sclerosis)",19082029.68
+Noncommunicable Diseases,Cardiovascular diseases,Rheumatic heart disease,24631783.33
+Noncommunicable Diseases,Cardiovascular diseases,Hypertensive heart disease,67585356.11
+Noncommunicable Diseases,Cardiovascular diseases,Ischaemic heart disease,536957671.8
+Noncommunicable Diseases,Cardiovascular diseases,Stroke,409769482
+Noncommunicable Diseases,Cardiovascular diseases,Inflammatory heart diseases,29725392.85
+Noncommunicable Diseases,Cardiovascular diseases,Other cardio,177668140.9
+Noncommunicable Diseases,Respiratory diseases,Chronic obstructive pulmonary disease (COPD),203440284.5
+Noncommunicable Diseases,Respiratory diseases,Asthma,17713597.27
+Noncommunicable Diseases,Respiratory diseases,"Other respiratory (e.g. pulmonary oedema, diseases caused by dust or asbestos inhalation)",52760671.7
+Noncommunicable Diseases,Genitourinary diseases,Genitourinary diseases,63099938.78
+Noncommunicable Diseases,Skin diseases,Skin diseases,5093609.516
+Noncommunicable Diseases,Musculoskeletal diseases,Rheumatoid arthritis,1900600.566
+Noncommunicable Diseases,Musculoskeletal diseases,Osteoarthritis,380120.1131
+Noncommunicable Diseases,Musculoskeletal diseases,Gout,76024.02263
+Noncommunicable Diseases,Musculoskeletal diseases,Low back pain,228072.0679
+Noncommunicable Diseases,Musculoskeletal diseases,"Other (bone fractures due to osteoporosis, joint disorders, muscle wasting)",5397705.606
+Noncommunicable Diseases,Digestive diseases,Peptic ulcer,19842269.91
+Noncommunicable Diseases,Digestive diseases,Cirrhosis of liver,58614521.44
+Noncommunicable Diseases,Digestive diseases,Appendicitis,1596504.475
+Noncommunicable Diseases,Digestive diseases,"Others (e.g. gastritis, pancreatitis, hernias, liver failure)",67129211.98
+Nutritional Deficiencies,Nutritional deficiencies,Protein,31676676.09
+Nutritional Deficiencies,Nutritional deficiencies,Iodine,886946.9306
+Nutritional Deficiencies,Nutritional deficiencies,Vitamin A,2914254.201
+Nutritional Deficiencies,Nutritional deficiencies,Iron,16851991.68
+Nutritional Deficiencies,Nutritional deficiencies,"Others (vitamin B, C, D / rickets, calcium, selenium)",7095575.445
+Pregnancy,Mother,Maternal haemorrhage,17865645.32
+Pregnancy,Mother,Maternal sepsis,9503002.828
+Pregnancy,Mother,Hypertension in pregnancy,8996176.011
+Pregnancy,Mother,Obstructed labour,5448388.288
+Pregnancy,Mother,Abortion,8362642.489
+Pregnancy,Mother,Other maternal conditions,14064444.19
+Pregnancy,Baby,Low birthweight,164845422.4
+Pregnancy,Baby,Birth asphyxia/trauma,93636254.53
+Pregnancy,Baby,"Other perinatal (e.g. ectopic pregnancy, maternal death)",61072631.51
+Pregnancy,Birth defects,Congenital heart defects,27267282.78
+Pregnancy,Birth defects,Spina bifida,2432768.724
+Pregnancy,Birth defects,Down syndrome,2432768.724
+Pregnancy,Birth defects,"Others (e.g. anencephaly, kidney defects, cleft palate)",19259419.07
+War,World War II 1939-45,World War II 1939-45,66000000
+War,World War I 1914-1918,World War I 1914-1918,37000000
+War,Korean War 1950-3,Korean War 1950-3,1177000
+War,Vietnam War 1965-73,Vietnam War 1965-73,1700000
+War,Iran-Iraq War 1980-88,Iran-Iraq War 1980-88,1000000
+War,Afghanistan - Soviet invasion 1979-89,Afghanistan - Soviet invasion 1979-89,1000000
+War,Mexican Revolution 1910-1920,Mexican Revolution 1910-1920,1000000
+War,"Post-war expulsion of Germans from Eastern Europe, 1945-47","Post-war expulsion of Germans from Eastern Europe, 1945-47",2100000
+War,Civil wars,Russian civil war 1917-22,9000000
+War,Civil wars,"First Chinese civil war, 1928-37",5000000
+War,Civil wars,Second Chinese civil war 1945-49,2500000
+War,Civil wars,Ethiopia 1962-92,2000000
+War,Civil wars,Nigeria 1966-70,1000000
+War,Civil wars,Congo (1998-2005),200000
+War,Civil wars,Sudan (1983-2005),50000
