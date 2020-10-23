@@ -1,2 +1,14 @@
 # Departed
  A data visualization of leading causes of death in the 20th century.
+ 
+ 
+ 
+ 
+ View the visualization at Observable: https://observablehq.com/@urmilaj/departed
+ 
+ View the visualization at GitHub pages: https://urmilaj.github.io/Departed/
+ 
+ 
+
+ 
+ This visualization was compiled in response to Condé Nast's data visualization challenge - https://github.com/CondeIndiaBI/Data-Viz-Design-Challenge
