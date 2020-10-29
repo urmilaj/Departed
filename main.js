@@ -2,12 +2,12 @@ function viz(){
   //set up svg width, height and margin
         const margin = { top:5, left: 50, bottom: 30, right: 100 },
               width = 960,
-              height = 1600; 
+              height = 1700; 
   
   //set up svg attributes
     const svg = d3.select("body")
                 .append("svg").attr("viewBox",[0,0,width,height]).attr("class","viz")
-                .append("g").attr("transform","translate(120,60)")
+                .append("g").attr("transform","translate(120,70)")
 
   //import data via d3 csv             
   d3.csv("20th_Century_Deaths_clean.csv",function(d){
